@@ -1,7 +1,9 @@
-
 # Marcus Idia
 
-Machine Learning · NLP · Software Engineering
+Cognitive Science · Machine Learning · Software Engineering
+
+### Building
+Websites · ML models · Data tools · Side projects
 
 ### Tech Stack
 
@@ -13,5 +15,4 @@ Machine Learning · NLP · Software Engineering
 ![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
 
 ### Links
-
 [GitHub](https://github.com/haveanidia) · [Hugging Face](https://huggingface.co/noumenon-labs)
